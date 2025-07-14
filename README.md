@@ -4,6 +4,7 @@ This project is a machine learning application that performs sentiment analysis 
 
 ## 📁 Project Structure
 
+```
 sentiment-analysis-nlp/
 ├── data/
 │ └── dataset.csv
@@ -12,6 +13,7 @@ sentiment-analysis-nlp/
 ├── SentimentAnalysis.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚙️ Tech Stack
 
